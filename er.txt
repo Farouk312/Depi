@@ -1,0 +1,14 @@
+df[name of coloum]
+
+→ diff between loc-->when i know name of colom and iloc ---> here with index [row,colom]
+
+→check type use dtype \\\\\ change type use astype as in numpy
+
+→isnull=isna
+fillnull=fillna
+dropnull=dropna
+duplicates return number 
+isduplicated return true or false
+
+→ is it default in concat method to create index?	(false)
+
